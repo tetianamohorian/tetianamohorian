@@ -1,5 +1,5 @@
-### Hi there! 👋  
-I'm Tetiana Mohorian, a passionate developer working with Python, Java, and Web Development. 🚀  
+### Hi, I'm Tetiana Mohorian! 👋  
+I'm a passionate developer working with Python, Java, and Web Development. 🚀  
 I'm currently working on projects related to Machine Learning and Web Development.  
 
 ---
