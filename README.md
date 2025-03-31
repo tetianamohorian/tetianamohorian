@@ -18,7 +18,8 @@ I'm currently working on projects related to Machine Learning and Web Developmen
 
 ### 📂 Featured Projects  
 - [Hate Speech Detection Website](https://github.com/tetianamohorian/HateSpeechDetectionSite) - A web application for detecting hate speech using large language models.  
-- [Hate Speech Detection Telegram Bot](https://github.com/tetianamohorian/HateSpeechDetectionTelegramBot/tree/main) - A Telegram bot that leverages large language models to detect hate speech in messages.  
+- [Hate Speech Detection Telegram Bot](https://github.com/tetianamohorian/HateSpeechDetectionTelegramBot/tree/main) - A Telegram bot that leverages large language models to detect hate speech in messages.
+- [Hate Speech Detection](https://github.com/tetianamohorian/HateSpeechDetection/tree/main) - Using large language models for text classification. 
 
 
 
