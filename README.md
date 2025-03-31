@@ -9,9 +9,10 @@ I'm currently working on projects related to Machine Learning and Web Developmen
 
 ---
 
-### 📊 GitHub Stats  
-![Tetiana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dark)  
+### 📊 GitHub Статистика
+![Tetiana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TetianaMohorian&show_icons=true&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TetianaMohorian&layout=compact&theme=radical)
+
 
 ---
 
