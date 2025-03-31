@@ -33,6 +33,6 @@ I'm currently working on projects related to Machine Learning and Web Developmen
 ### 🌱 Currently Learning  
 - Deep Learning (using PyTorch & Hugging Face Transformers)  
 - Java programming  
-- Front-end development (HTML, CSS, JavaScript)  
+- Front-end development (HTML, CSS, JavaScript, React.js)  
 
 Feel free to connect with me! ✨
