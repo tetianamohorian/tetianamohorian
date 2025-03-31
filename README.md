@@ -17,7 +17,7 @@ I'm currently working on projects related to Machine Learning and Web Developmen
 ---
 
 ### 📂 Featured Projects  
-- [Hate Speech Detection](https://github.com/YourUsername/YourRepo) - Using large language models for text classification.  
+- [Hate Speech Detection](https://github.com/tetianamohorian/HateSpeechDetectionSite) - Using large language models for text classification.  
 - [Responsive Website](https://github.com/YourUsername/YourRepo) - Modern, accessible, and responsive design.  
 
 ---
