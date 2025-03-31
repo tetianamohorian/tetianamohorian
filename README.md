@@ -25,8 +25,7 @@ I'm currently working on projects related to Machine Learning and Web Developmen
 ---
 
 ### 📈 Achievements & Contributions  
-![Profile Views](https://komarev.com/ghpvc/?username=tetianamohorian&color=blue)  
-![Followers](https://img.shields.io/github/followers/tetianamohorian?style=social)  
+![Profile Views](https://komarev.com/ghpvc/?username=tetianamohorian&color=blue)  ![Followers](https://img.shields.io/github/followers/tetianamohorian?style=social)  
 
 ---
 
