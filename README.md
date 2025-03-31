@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 📊 GitHub Статистика
+![Tetiana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TetianaMohorian&show_icons=true&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TetianaMohorian&layout=compact&theme=radical)
+
