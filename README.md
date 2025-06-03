@@ -101,6 +101,15 @@ Technical University of Košice
 
 ---
 
+## 🧠 Currently Learning
+
+- TypeScript & Advanced React
+- Docker & Kubernetes for deployment
+- Neural network fine-tuning (PEFT, LoRA)
+
+
+---
+
 ## 💬 Fun Facts
 
 - 🧑‍🏫 I taught myself C# and React
