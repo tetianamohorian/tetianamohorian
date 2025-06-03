@@ -40,6 +40,25 @@ Currently seeking **internship** or **entry-level opportunities** to grow as a d
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tetianamohorian&show_icons=true&theme=react&hide_border=true" alt="Tetiana's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetianamohorian&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+</p>
+
+<!-- Optional: GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tetianamohorian&theme=onestar&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
+</p>
+
+---
+
+
+
 ## 📜 Certifications
 
 - 🛰️ [CCNAv7: Switching, Routing, and Wireless Essentials](https://www.netacad.com/certificates?issuanceId=af30a589-eb0b-463a-85a6-be984c2ccc1c)
