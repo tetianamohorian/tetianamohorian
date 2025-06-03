@@ -1,38 +1,67 @@
-# Hi, I'm Tetiana Mohorian! 👋  
-I'm a passionate developer working with Python, Java, and Web Development. 🚀  
-I'm currently working on projects related to Machine Learning and Web Development.  
+# 👋 Hi, I'm Tetiana Mohorian
+
+🎓 **Bachelor Student at Technical University of Košice**  
+💻 Aspiring **Frontend Developer**, **.NET Developer**, and **Data Analyst**  
+📍 Based in Košice, Slovakia  
+📬 [tetiana.mohorian@student.tuke.sk](mailto:tetiana.mohorian@student.tuke.sk)
 
 ---
 
-### 🔧 Technologies & Tools  
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)  ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=mathworks) ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+## 💡 About Me
+
+I'm an enthusiastic developer passionate about **frontend technologies**, **data analysis**, and **.NET development**.  
+I enjoy solving problems, learning new tools quickly, and building things that work. Currently looking for **internships** or **junior positions** to grow further in the tech industry.
 
 ---
 
-### 📊 GitHub Статистика
-![Tetiana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TetianaMohorian&show_icons=true&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TetianaMohorian&layout=compact&theme=radical)
+## 🛠️ Tech Stack
 
-
----
-
-### 📂 Featured Projects  
-- [Hate Speech Detection Website](https://github.com/tetianamohorian/HateSpeechDetectionSite) - A web application for detecting hate speech using large language models.  
-- [Hate Speech Detection Telegram Bot](https://github.com/tetianamohorian/HateSpeechDetectionTelegramBot/tree/main) - A Telegram bot that leverages large language models to detect hate speech in messages.
-- [Hate Speech Detection](https://github.com/tetianamohorian/HateSpeechDetection/tree/main) - Using large language models for text classification. 
-
-
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Backend:** C#, .NET, OOP  
+- **Other Languages:** Python  
+- **Databases:** MySQL, PostgreSQL  
+- **Other:** Telegram Bots, Neural Networks, Networking  
 
 ---
 
-### 📈 Achievements & Contributions  
-![Profile Views](https://komarev.com/ghpvc/?username=tetianamohorian&color=blue)  ![Followers](https://img.shields.io/github/followers/tetianamohorian?style=social)  
+## 🧠 Languages
+
+- 🇺🇦 Ukrainian — Native  
+- 🇷🇺 Russian — Native  
+- 🇸🇰 Slovak — Intermediate (B1-B2)  
+- 🇬🇧 English — Intermediate (B1)
 
 ---
 
-### 🌱 Currently Learning  
-- Deep Learning (using PyTorch & Hugging Face Transformers)  
-- Java programming  
-- Front-end development (HTML, CSS, JavaScript, React.js, Node.js)  
+## 📂 Projects
 
-Feel free to connect with me! ✨
+### 🔒 [Hate Speech Detector](https://hate-detektor-19732600168.europe-central2.run.app/)
+> A web and Telegram bot application for detecting hate speech using LLMs. Built with Python, trained on custom datasets.
+
+### 🌐 [Computer Networks Portal](https://pocitacove-siete-portal.netlify.app/)
+> Educational project showcasing network configurations, guides, and materials for students.
+
+---
+
+## 🧾 Certifications
+
+- 📘 [CCNAv7: Switching, Routing, and Wireless Essentials](https://www.netacad.com/certificates?issuanceId=af30a589-eb0b-463a-85a6-be984c2ccc1c)  
+- 🔒 [CCNA: Enterprise Networking, Security, and Automation](https://www.netacad.com/certificates?issuanceId=a307c193-afff-4968-a976-ec01b65e424a)  
+- 🗣️ [Slovak B1 Language Course for Ukrainians](https://certs.prometheus.org.ua/downloads/c639cf03d0264787aebd42edccbe8ae0/Certificate.pdf)  
+- 🎨 Web Interface Basics 2022  
+
+---
+
+## 👷 Experience
+
+**Programmer — Pcklub J9 (09/2024 – 02/2025)**  
+- Installed Ethernet cabling and sockets  
+- Configured network access  
+- Helped with troubleshooting hardware/network issues  
+- Created a basic internal-use bot
+
+---
+
+## 🎶 Interests
+
+- Playing the **flute** and **synthesizer**
