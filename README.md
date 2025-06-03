@@ -53,9 +53,9 @@ Currently seeking **internship** or **entry-level opportunities** to grow as a d
 
 ---
 ## 🗓️ GitHub Calendar
-
+<p align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=tetianamohorian&theme=react&hide_border=true)](https://git.io/streak-stats)
-
+</p>
 
 ---
 ## 📜 Certifications
