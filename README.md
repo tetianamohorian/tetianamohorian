@@ -28,6 +28,15 @@ Currently seeking **internship** or **entry-level opportunities** to grow as a d
 
 ---
 
+
+## 🛠️ Tools I Work With
+
+![VSCode](https://img.shields.io/badge/Editor-VSCode-blue?logo=visual-studio-code)
+![Figma](https://img.shields.io/badge/Design-Figma-red?logo=figma)
+![Git](https://img.shields.io/badge/Version-Git-orange?logo=git)
+
+---
+
 ## 📊 Projects
 
 ### 🔍 [Hate Speech Detector](https://hate-detektor-19732600168.europe-central2.run.app/)
