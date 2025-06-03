@@ -94,7 +94,8 @@ Technical University of Košice
 
 ---
 
-## 🎵 Interests
+## 💬 Fun Facts
 
-- 🎹 Playing the **flute** and **synthesizer**
-- 🎧 Music and sound experimentation
+- 🧑‍🏫 I taught myself C# and React
+- 🧠 I love learning through building things
+- 🎵 I play the flute and write melodies for fun
