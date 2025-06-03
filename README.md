@@ -1,67 +1,85 @@
-# 👋 Hi, I'm Tetiana Mohorian
-
-🎓 **Bachelor Student at Technical University of Košice**  
-💻 Aspiring **Frontend Developer**, **.NET Developer**, and **Data Analyst**  
-📍 Based in Košice, Slovakia  
-📬 [tetiana.mohorian@student.tuke.sk](mailto:tetiana.mohorian@student.tuke.sk)
-
----
-
-## 💡 About Me
-
-I'm an enthusiastic developer passionate about **frontend technologies**, **data analysis**, and **.NET development**.  
-I enjoy solving problems, learning new tools quickly, and building things that work. Currently looking for **internships** or **junior positions** to grow further in the tech industry.
+<h1 align="center">Hi there! 👋 I'm Tetiana Mohorian</h1>
+<p align="center">
+  🎓 Student · 💻 Developer · 🌍 Based in Košice, Slovakia
+</p>
+<p align="center">
+  <a href="mailto:tetiana.mohorian@student.tuke.sk">📧 Email</a> •
+  <a href="https://linkedin.com/in/tetiana-mohorian-78648a2bb">🔗 LinkedIn</a> •
+  <a href="https://github.com/tetianamohorian">🐙 GitHub</a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧑‍💻 About Me
 
-- **Frontend:** HTML, CSS, JavaScript, React  
-- **Backend:** C#, .NET, OOP  
-- **Other Languages:** Python  
-- **Databases:** MySQL, PostgreSQL  
-- **Other:** Telegram Bots, Neural Networks, Networking  
-
----
-
-## 🧠 Languages
-
-- 🇺🇦 Ukrainian — Native  
-- 🇷🇺 Russian — Native  
-- 🇸🇰 Slovak — Intermediate (B1-B2)  
-- 🇬🇧 English — Intermediate (B1)
+Aspiring **Frontend Developer**, **.NET enthusiast**, and **Data Explorer**  
+Passionate about creating things with code and exploring new technologies.  
+I enjoy learning quickly, solving problems, and building useful applications.  
+Currently seeking **internship** or **entry-level opportunities** to grow as a developer.
 
 ---
 
-## 📂 Projects
+## 🧰 Tech Stack
 
-### 🔒 [Hate Speech Detector](https://hate-detektor-19732600168.europe-central2.run.app/)
-> A web and Telegram bot application for detecting hate speech using LLMs. Built with Python, trained on custom datasets.
+- 🎨 **Frontend:** `HTML`, `CSS`, `JavaScript`, `React`
+- 🖥️ **Backend:** `C#`, `.NET`, `OOP`
+- 🧠 **Other Languages:** `Python`, `SQL`
+- 🧠 **Topics:** `Neural Networks`, `Telegram Bots`, `Networking`
+
+---
+
+## 📊 Projects
+
+### 🔍 [Hate Speech Detector](https://hate-detektor-19732600168.europe-central2.run.app/)
+> Web and Telegram-based hate speech detection tool using LLMs  
+> Built with Python, NLP models, and interactive UI
 
 ### 🌐 [Computer Networks Portal](https://pocitacove-siete-portal.netlify.app/)
-> Educational project showcasing network configurations, guides, and materials for students.
+> Student-oriented resource portal for network configuration & tasks  
+> Features interactive guides and downloadable archives
 
 ---
 
-## 🧾 Certifications
+## 📜 Certifications
 
-- 📘 [CCNAv7: Switching, Routing, and Wireless Essentials](https://www.netacad.com/certificates?issuanceId=af30a589-eb0b-463a-85a6-be984c2ccc1c)  
-- 🔒 [CCNA: Enterprise Networking, Security, and Automation](https://www.netacad.com/certificates?issuanceId=a307c193-afff-4968-a976-ec01b65e424a)  
-- 🗣️ [Slovak B1 Language Course for Ukrainians](https://certs.prometheus.org.ua/downloads/c639cf03d0264787aebd42edccbe8ae0/Certificate.pdf)  
-- 🎨 Web Interface Basics 2022  
-
----
-
-## 👷 Experience
-
-**Programmer — Pcklub J9 (09/2024 – 02/2025)**  
-- Installed Ethernet cabling and sockets  
-- Configured network access  
-- Helped with troubleshooting hardware/network issues  
-- Created a basic internal-use bot
+- 🛰️ [CCNAv7: Switching, Routing, and Wireless Essentials](https://www.netacad.com/certificates?issuanceId=af30a589-eb0b-463a-85a6-be984c2ccc1c)
+- 🔐 [CCNA: Enterprise Networking, Security, and Automation](https://www.netacad.com/certificates?issuanceId=a307c193-afff-4968-a976-ec01b65e424a)
+- 🗣️ [Slovak Language Course (B1)](https://certs.prometheus.org.ua/downloads/c639cf03d0264787aebd42edccbe8ae0/Certificate.pdf)
+- 🌐 Web Interface Basics 2022
 
 ---
 
-## 🎶 Interests
+## 💼 Experience
 
-- Playing the **flute** and **synthesizer**
+**💻 Programmer – Pcklub J9**  
+📅 *09/2024 – 02/2025*  
+📍 Košice, Slovakia  
+Tasks:
+- Set up Ethernet cabling and network sockets
+- Configured user internet access
+- Handled basic troubleshooting
+- Built a basic bot for internal use
+
+---
+
+## 📚 Education
+
+**Bachelor of Computer Networks**  
+Technical University of Košice  
+📅 *09/2022 – 07/2025*
+
+---
+
+## 🌍 Languages
+
+- 🇺🇦 Ukrainian: Native  
+- 🇷🇺 Russian: Native  
+- 🇸🇰 Slovak: Intermediate (B1-B2)  
+- 🇬🇧 English: Intermediate (B1)
+
+---
+
+## 🎵 Interests
+
+- 🎹 Playing the **flute** and **synthesizer**
+- 🎧 Music and sound experimentation
