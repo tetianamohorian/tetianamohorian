@@ -52,9 +52,12 @@ Currently seeking **internship** or **entry-level opportunities** to grow as a d
 
 
 ---
+## 🗓️ GitHub Calendar
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=tetianamohorian&theme=react&hide_border=true)](https://git.io/streak-stats)
 
 
-
+---
 ## 📜 Certifications
 
 - 🛰️ [CCNAv7: Switching, Routing, and Wireless Essentials](https://www.netacad.com/certificates?issuanceId=af30a589-eb0b-463a-85a6-be984c2ccc1c)
