@@ -39,7 +39,7 @@ Currently seeking **internship** or **entry-level opportunities** to grow as a d
 
 ## 📊 Projects
 
-### 🔍 [Hate Speech Detector](https://hate-detektor-19732600168.europe-central2.run.app/)
+### 🔍 [Hate Speech Detector](https://github.com/tetianamohorian/HateSpeechDetectionSite)
 > Web and Telegram-based hate speech detection tool using LLMs  
 > Built with Python, NLP models, and interactive UI
 
