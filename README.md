@@ -65,9 +65,9 @@ Currently seeking **internship** or **entry-level opportunities** to grow as a d
 ## 📜 Certifications
 
 - 🛰️ [CCNAv7: Switching, Routing, and Wireless Essentials](./CCNA-_Switching-_Routing-_and_Wireless_Essentials_certificate_tetiana-mohorian-student-tuke-sk_af30a589-eb0b-463a-85a6-be984c2ccc1c.pdf)
-- 🔐 [CCNA: Enterprise Networking, Security, and Automation](https://www.netacad.com/certificates?issuanceId=a307c193-afff-4968-a976-ec01b65e424a)
+- 🔐 [CCNA: Enterprise Networking, Security, and Automation](./CCNA-_Enterprise_Networking-_Security-_and_Automation_certificate_tetiana-mohorian-student-tuke-sk_a307c193-afff-4968-a976-ec01b65e424a.pdf)
 - 🗣️ Slovak Language Course (B1)
-- 🌐 [Web Interface Basics 2022](https://certs.prometheus.org.ua/downloads/c639cf03d0264787aebd42edccbe8ae0/Certificate.pdf)
+- 🌐 [Web Interface Basics 2022](./Certificate.pdf)
 
 ---
 
