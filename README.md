@@ -47,20 +47,16 @@ Currently seeking **internship** or **entry-level opportunities** to grow as a d
 > Student-oriented resource portal for network configuration & tasks  
 > Features interactive guides and downloadable archives
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tetianamohorian&show_icons=true&theme=react&hide_border=true" alt="Tetiana's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetianamohorian&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
-</p>
-
+### 🌐 [ParkHood](https://git.kpi.fei.tuke.sk/tetiana.mohorian/parkhood-ui)
+> Designed the application’s UI/UX
+> Developed all pages using React and Ionic
+> Built and integrated core functionality
+> Optimized the user interface for better usability
+> Participated in testing and improvements
+> Contributed to the overall user experience of the ParkHood project
 
 ---
+
 
 ## 📜 Certifications
 
