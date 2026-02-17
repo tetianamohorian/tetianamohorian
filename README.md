@@ -51,12 +51,12 @@ Currently seeking **internship** or **entry-level opportunities** to grow as a d
 > ParkHood is a community-driven mobile and web app that lets users share unused parking spots and reserve them easily.
 
 > Tasks:
-> Designed the application’s UI/UX
-> Developed all pages using React and Ionic
-> Built and integrated core functionality
-> Optimized the user interface for better usability
-> Participated in testing and improvements
-> Contributed to the overall user experience of the ParkHood project
+> - Designed the application’s UI/UX
+> - Developed all pages using React and Ionic
+> - Built and integrated core functionality
+> - Optimized the user interface for better usability
+> - Participated in testing and improvements
+> - Contributed to the overall user experience of the ParkHood project
 
 ---
 
