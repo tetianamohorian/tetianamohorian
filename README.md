@@ -47,7 +47,10 @@ Currently seeking **internship** or **entry-level opportunities** to grow as a d
 > Student-oriented resource portal for network configuration & tasks  
 > Features interactive guides and downloadable archives
 
-### 🌐 [ParkHood](https://git.kpi.fei.tuke.sk/tetiana.mohorian/parkhood-ui)
+### 🚗 [ParkHood](https://git.kpi.fei.tuke.sk/tetiana.mohorian/parkhood-ui)
+ParkHood is a community-driven mobile and web app that lets users share unused parking spots and reserve them easily.
+
+Tasks:
 > Designed the application’s UI/UX
 > Developed all pages using React and Ionic
 > Built and integrated core functionality
